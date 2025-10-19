@@ -223,8 +223,8 @@ bibtex
 
 @software{protein_sequence_toolkit,
   title = {Protein Sequence Analysis Toolkit},
-  author = {Your Name},
-  year = {2024},
+  author = {Liu Liu},
+  year = {2025},
   url = {https://github.com/yourusername/protein-sequence-toolkit}
 }
 
